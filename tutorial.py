@@ -10,15 +10,4 @@ instagram_data_usuage(5,100)
 # our function takes two inputs
 # we need to inputs to calculate how many total MB we spent in total
 
-
 # variable is result 
-
-
-
-
-
-
-
-
-
-
